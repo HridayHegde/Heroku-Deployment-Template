@@ -61,7 +61,7 @@
 
 <p align="center">
   <a href="https://github.com/HridayHegde/Heroku-Deployment-Template">
-    <img src=images/HerokuWordArt.jpg alt="Logo" >
+    <img src=images/HerokuWordArt.png alt="Logo" >
   </a> <!--[![Product Name Screen Shot][product-screenshot]](https://example.com) --></p>
 
 There are many Heroku templates out there, but none of those fit my bill so i've made one that'll conquer them all :D. <!-- LOL -->
