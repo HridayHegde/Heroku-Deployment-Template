@@ -183,7 +183,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Reuben Rapose - [@HridayHegde](https://www.linkedin.com/in/hridayhegde/) - hridayhegde1999@gmail.com
+Hriday Hegde - [@HridayHegde](https://www.linkedin.com/in/hridayhegde/) - hridayhegde1999@gmail.com
 
 Project Link: [https://github.com/HridayHegde/Heroku-Deployment-Template](https://github.com/HridayHegde/Heroku-Deployment-Template)
 
